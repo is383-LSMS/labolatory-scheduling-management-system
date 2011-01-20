@@ -12,13 +12,15 @@ INSTALLATION
 Please make sure the release file is unpacked under a Web-accessible
 directory. You shall see the following files and directories:
 
-      demos/               demos
-      framework/           framework source files
-      requirements/        requirement checker
-      CHANGELOG            describing changes in every Lsms release
-      LICENSE              license of LSMS
-      README               this file
-      UPGRADE              upgrading instructions
+      assets/               files 
+      css/           	    style sheets files
+      images/        	    image directory
+      proteted/		    protected contents of projets
+      themes/               Theme for interface
+      CHANGELOG             describing changes in every Lsms release
+      LICENSE               license of LSMS
+      README                this file
+      UPGRADE               Rupgrading instructions
 
 
 REQUIREMENTS
